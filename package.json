@@ -1,0 +1,22 @@
+{
+  "name": "hex_js",
+  "version": "1.0.0",
+  "description": "test package",
+  "main": "index.js",
+  "scripts": {
+    "test": "console.log('TestTestTest')"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GlassArmor/hex_js.git"
+  },
+  "keywords": [
+    "asdfasdf"
+  ],
+  "author": "sdfsfd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GlassArmor/hex_js/issues"
+  },
+  "homepage": "https://github.com/GlassArmor/hex_js#readme"
+}
