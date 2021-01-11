@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/GlassArmor/hex_js/issues"
   },
-  "homepage": "https://github.com/GlassArmor/hex_js#readme"
+  "homepage": "https://github.com/GlassArmor/hex_js#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
